@@ -29,16 +29,16 @@ A dynamic **E-commerce website for computer accessories** that allows users to b
 
 ```md
 ### Home Page
-![Home Page](website_ss/home.png)
+![Home Page](WEBSITE_SS/Home.png)
 
 ### Product Listing
-![Products](website_ss/LoggedinHomePage.png)
+![Products](WEBSITE_SS/LoggedinHomePage.png)
 
 ### Build Your PC
-![Build PC](website_ss/buildPCModule.png)
+![Build PC](WEBSITE_SS/BuildPCModule.png)
 
 ### Community Chat
-![Chat](website_ss/ChatModule.png)
+![Chat](WEBSITE_SS/ChatModule.png)
 ```
 
 ---
