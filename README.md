@@ -2,36 +2,46 @@
 
 A dynamic **E-commerce website for computer accessories** that allows users to browse products, add items to cart, build custom PC configurations, and interact with other users through a community chat feature.
 
+🔗 **Repository:** [GitHub Link](https://github.com/Tarun-Kannadas/Ecommerce-Website)
+
 ---
 
 ## 📌 Features
 
-* 🖥️ Browse a wide range of computer accessories
-* 🛒 Add, remove, and manage items in the cart
-* 🛠️ **Build Your PC** feature for custom configurations
-* 💬 Community chat for user interaction
-* 🔐 User-friendly navigation
-* 📱 Responsive layout for different screen sizes
+- 🖥️ Browse a wide range of computer accessories  
+- 🛒 Add, remove, and manage items in the cart  
+- 🛠️ **Build Your PC** feature for custom configurations  
+- 💬 Community chat for user interaction  
+- 🔐 User authentication and registration  
+- 📱 Responsive layout for different screen sizes  
 
 ---
 
 ## 🧱 Tech Stack
 
-* **Frontend:** HTML, CSS
-* **Backend:** PHP
-* **Scripting:** JavaScript
-* **Server:** Apache (XAMPP / WAMP recommended)
-* **Database:** MySQL *(if configured)*
+- **Frontend:** HTML, CSS  
+- **Backend:** PHP  
+- **Scripting:** JavaScript  
+- **Server:** Apache (XAMPP / WAMP recommended)  
+- **Database:** MySQL *(if configured)*  
 
 ---
 
 ## 📸 Screenshots
 
-```md
 ### Home Page
 ![Home Page](WEBSITE_SS/Home.png)
 
-### Product Listing
+### Customer Login
+![Customer Login](WEBSITE_SS/Customer_Login.png)
+
+### Register
+![Register](WEBSITE_SS/Register.png)
+
+### Profile Page
+![Profile](WEBSITE_SS/Profile.png)
+
+### Product Listing / Logged-in Home Page
 ![Products](WEBSITE_SS/LoggedinHomePage.png)
 
 ### Build Your PC
@@ -39,7 +49,9 @@ A dynamic **E-commerce website for computer accessories** that allows users to b
 
 ### Community Chat
 ![Chat](WEBSITE_SS/ChatModule.png)
-```
+
+### Admin Panel
+![Admin Panel](WEBSITE_SS/Admin Panel.png)
 
 ---
 
